@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hey there! 👋
+I'm Aditya, a 3rd year student at BITS Pilani, Hyderabad Campus, pursuing a Bachelor's of Engineering in Computer Science and a Master's of Science in Economics.
+
+I'm passionate about Data Science and Financial Analytics, and I'm especially excited about merging my passions for coding, AI/ML and Economics & Finance together.
+
+When I'm not sleeping, you can find me playing basketball, working out at the gym, reading, or petting whatever unfortunate animal I happened to catch a glance of by a road. If I'm not doing any of those things, however, I'm probably spending that little time I have left coding.
 
 ## 💬 Social
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pentyala-921b19220/)](https://www.linkedin.com/in/aditya-pentyala-921b19220/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adityapentyala02@gmail.com
+)](mailto:adityapentyala02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/adityapentyala/)](https://www.instagram.com/adityapentyala/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ## ⚡ Technologies
 ### 📋 Languages
@@ -56,8 +62,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapentyala)](https://github.com/adityapentyala)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapentyala&langs_count=20&layout=donut&hide=Jupyter+Notebook)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapentyala&theme=dracula)](https://github.com/adityapentyala)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapentyala&langs_count=20&layout=donut&hide=Jupyter+Notebook&theme=dracula)
 
 <!--
 **adityapentyala/adityapentyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
