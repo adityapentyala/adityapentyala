@@ -57,7 +57,7 @@
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityapentyala)](https://github.com/adityapentyala)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapentyala&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapentyala&langs_count=20&layout=donut-vertical&hide=Jupyter+Notebook)
 
 <!--
 **adityapentyala/adityapentyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
